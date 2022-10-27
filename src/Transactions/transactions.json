@@ -1,0 +1,88 @@
+[
+        {
+            "name": "Grocery Shopping", 
+            "transactionAmount": -133.50,
+            "type": "Checking"
+        }, 
+        {
+            "name": "Electronics Store", 
+            "transactionAmount": -24.99,
+            "type": "Checking"
+        }, 
+        {
+            "name": "Cash Withdrawl", 
+            "transactionAmount": -400,
+            "type": "Checking"
+        }, 
+        {
+            "name": "Direct Deposit", 
+            "transactionAmount": 2500,
+            "type": "Checking"
+        }, 
+        {
+            "name": "Netflix Subscription", 
+            "transactionAmount": -17.99,
+            "type": "Checking"
+        }, 
+        {
+            "name": "Apple Store", 
+            "transactionAmount": -999,
+            "type": "Checking"
+        }, 
+        {
+            "name": "Direct Deposit", 
+            "transactionAmount": 1500,
+            "type": "Checking"
+        }, 
+        {
+            "name": "Check #450", 
+            "transactionAmount": -500,
+            "type": "Checking"
+        }, 
+        {
+            "name": "Ethereum", 
+            "transactionAmount": -1000,
+            "type": "Checking"
+        },
+        {
+            "name": "Gas", 
+            "transactionAmount": 50,
+            "type": "Credit"
+        },
+        {
+            "name": "Car Payment", 
+            "transactionAmount": 300,
+            "type": "Credit"
+        }, 
+        {
+            "name": "Auto Repair", 
+            "transactionAmount": 150,
+            "type": "Credit"
+        }, 
+        {
+            "name": "Credit Card Payment", 
+            "transactionAmount": -400,
+            "type": "Credit"
+        }, 
+        {
+            "name": "LaunchDarkly Pro", 
+            "transactionAmount": 100,
+            "type": "Credit"
+        },
+        {
+            "name": "Air Ticket", 
+            "transactionAmount": 300,
+            "type": "Credit"
+        },
+        {
+            "name": "Hotel Stay", 
+            "transactionAmount": 300,
+            "type": "Credit"
+        },
+        {
+            "name": "Credit Card Payment", 
+            "transactionAmount": -400,
+            "type": "Credit"
+        }
+
+]
